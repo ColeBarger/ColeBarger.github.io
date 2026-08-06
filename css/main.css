@@ -89,7 +89,7 @@ table {
 }
 
 td, th {
-    border: 1px solid #999;
+    border: 0px solid #999;
     padding: 10px;
     text-align: center;
 }
