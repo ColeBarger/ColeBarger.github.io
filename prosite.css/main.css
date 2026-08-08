@@ -277,3 +277,6 @@ img {
     }
 
 }
+.hero {
+    background-image: url("../images/hero.jpg");
+}
